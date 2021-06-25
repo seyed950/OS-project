@@ -82,6 +82,9 @@ def sjf(process):
             if i == len(process) - 1:
                 j += 1
     return
+
+kir to konet Amin
+kos nane fariba yr vahedi
 # # # # # # # # # # # # # # # # FIFO # # # # # # # # # # # # # # # #
 # 2. calculate FIFO algorithm
 def fifo(process):
